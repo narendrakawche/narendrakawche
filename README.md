@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Narendra Kawche
 - 📚 Persuing B.Tech in chemical engineering from IIT Madras'25
 - 💻 I know these languges in computer:: C, C++, Python
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science and Machine Learning
 - 📫 contact instagram::  https://instagram.com/ard.neran_05?igshid=YmMyMTA2M2Y=
 
 <!---
