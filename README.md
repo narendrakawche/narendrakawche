@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narendra Kawche</h1>
 <h3 align="center">A passionate Tech enthusiast</h3>
 
-- 🌱 I’m currently learning **Full Stack Development, Data Analytics**
+- 🌱 A Final year student at IIT Madras**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
