@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Narendra Kawche</h1>
 <h3 align="center">A passionate Tech enthusiast</h3>
 
-- 🌱 A Final year student at IIT Madras**
+- 🌱 A Final year student at *__IIT Madras__*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/narendra-kawche706749/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/narendra-kawche706749/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/narendra-kawche706749/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/narendra-kawche7067/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/narendrakawche05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/narendrakawche05" height="30" width="40" /></a>
 <a href="https://instagram.com/ard.neran_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ard.neran_05" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/narendrakawche/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/narendrakawche/" height="30" width="40" /></a>
